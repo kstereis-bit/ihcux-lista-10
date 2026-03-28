@@ -59,3 +59,8 @@ Permite que o usuário avalie o atendimento recebido, atribuindo uma nota e deix
 
 O usuário inicia fazendo login, acessa a lista de estabelecimentos, escolhe um local, visualiza os detalhes e entra na fila.
 Em seguida, acompanha sua posição até ser atendido e, ao final, pode avaliar sua experiência.
+
+
+Anna Vitória Rocha Dias
+Gustavo Fernandes Rodrigues
+Kate Santana Reis
